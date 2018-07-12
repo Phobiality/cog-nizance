@@ -8,3 +8,7 @@ A Java RPG.
 
 #### Writers
 - Alexis Aken
+- John David Griffin, Jr.
+
+#### Artists
+- Ashelynx
