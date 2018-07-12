@@ -1,5 +1,5 @@
 # cog-nizance
-A Java platformer.
+A Java RPG.
 
 ## The Dev Team
 
